@@ -1,5 +1,10 @@
 # AgentHub
 
+AgentHub es una plataforma SaaS diseñada para que las empresas accedan de forma rápida y flexible a agentes de inteligencia artificial bajo demanda. A través de AgentHub, las organizaciones pueden “alquilar” asistentes inteligentes preconfigurados, listos para integrarse en distintos procesos de negocio sin necesidad de desarrollos complejos.
+
+Estos agentes pueden equiparse con diversas habilidades —como navegación web, lectura y análisis de documentos, gestión de calendarios o automatización de tareas— lo que permite adaptarlos a necesidades específicas en áreas como operaciones, atención al cliente, ventas o back office.
+Gracias a su enfoque modular y escalable, AgentHub facilita la implementación de soluciones de IA prácticas y eficientes, reduciendo costes, aumentando la productividad y acelerando la transformación digital de las empresas.
+
 ## Especificaciones 
 
 - Usa un html semantico 
